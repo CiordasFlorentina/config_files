@@ -1,0 +1,5 @@
+bookmark:
+  limit:
+    bronze: 5
+    silver: 10
+    gold: 15
