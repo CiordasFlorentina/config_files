@@ -1,5 +1,5 @@
 limit:
-  default: 1
+  standard: 1
   bronze: 5
   silver: 7
   gold: 10
