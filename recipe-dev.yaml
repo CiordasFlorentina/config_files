@@ -1,5 +1,4 @@
 bookmark:
-  limit:
-    bronze: 5
-    silver: 10
-    gold: 15
+  bronze: 1
+  silver: 5
+  gold: 10
